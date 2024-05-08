@@ -3,8 +3,64 @@
 ## Talk Resources
 * [Slides](./Slides/sampleslides.pptx)
 * Remote Ensemble Programming
+  * [Software Teaming](https://softwareteaming.com) *
+  * [Remote Mob Programming](https://www.remotemobprogramming.org)
   * [mob.sh](https://mob.sh)
+  * [Tuple](https://tuple.app)
+  * [Pop](https://pop.com)
+  * [Drovio](https://www.drovio.com)
+* Dependency Analysis
+  * _[Large-Scale C++ Software Design](https://www.amazon.com/Large-Scale-Software-Design-John-Lakos/dp/0201633620)_ by John Lakos
+  * I see that John Lakos wrote a follow-up book I haven't yet read: _[Large-Scale C++ Volume I: Process and Architecture](https://www.oreilly.com/library/view/large-scale-c-volume/9780133927573/)_ *
+  * [objc_dep](https://github.com/nst/objc_dep)
+* Microtesting
+  * _[iOS Unit Testing by Example](https://iosunittestingbyexample.com)_ by me
+  * [JUnit 5 User Guide](https://junit.org/junit5/docs/snapshot/user-guide/)
+  * [Names for test methods in Kotlin](https://kotlinlang.org/docs/coding-conventions.html#names-for-test-methods)
+  * [swift-testing](https://swiftpackageindex.com/apple/swift-testing)
+  * [NUnit](https://nunit.org) (C#)
+  * [EGTest](https://swiftpackageindex.com/wwake/EGTest)
+  * [XCTestParametrizedMacro](https://swiftpackageindex.com/PGSSoft/XCTestParametrizedMacro)
+  * [Continuous Testing in JetBrains IDEs](https://www.jetbrains.com/help/rider/Settings_DotCover_ContinuousTesting.html)
+  * [NCrunch](https://www.ncrunch.net) (C#) *
+  * [Infinitest](http://infinitest.github.io) (IntelliJ)
+  * [XcodeSelectiveTesting](https://swiftpackageindex.com/mikeger/XcodeSelectiveTesting)
+  * [Jest](https://jestjs.io) (JavaScript)
+  * [Why Is Random Order a Big Deal for Test Quality?](https://qualitycoding.org/random-test-order/) *
+* Continuous Integration
+  * [About self-hosted runners](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners) for GitHub Actions *
+  * [CircleCI's self-hosted runner overview](https://circleci.com/docs/runner-overview/) *
+  * [About larger runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-larger-runners) for GitHub Actions *
+  * [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) article by Martin Fowler, updated 18 January 2024
+* Test-Driven Development
+  * [Test-driven development](https://www.jetbrains.com/help/idea/tdd-with-intellij-idea.html) in IntelliJ showing "Create a new class from the test" and "Create method"
+* Refactoring
+* Conclusion
+  * [AppCode](https://www.jetbrains.com/objc/) with downloads
+  * [SwiftLint](https://swiftpackageindex.com/realm/SwiftLint)
+  * [SwiftFormat](https://swiftpackageindex.com/nicklockwood/SwiftFormat)
+  * [Tuist](https://swiftpackageindex.com/tuist/tuist)
+  * [Muter](https://github.com/muter-mutation-testing/muter)
+  * [Sourcery](https://swiftpackageindex.com/krzysztofzablocki/Sourcery)
+  * [Injection III](https://github.com/johnno1962/InjectionIII)
+  * [Periphery](https://swiftpackageindex.com/peripheryapp/periphery)
+  * [ViewInspector](https://swiftpackageindex.com/nalexn/ViewInspector)
+  * [Visual Studio Code](https://code.visualstudio.com)
+  * [JetBrains Fleet](https://www.jetbrains.com/fleet/)
+  * [SourceKit-LSP](https://github.com/apple/sourcekit-lsp)
+  * [Swift Syntax](https://github.com/apple/swift-syntax)
+  * [SourceKitten](https://github.com/jpsim/SourceKitten)
+  * [London Software Craftsmanship Community](https://www.meetup.com/london-software-craftsmanship/)
+  * [PhillyXP](https://www.meetup.com/phillyxp/)
+  * [Seattle Software Crafters](https://www.meetup.com/seattle-software-craftsmanship/)
+  * [Coderetreat Events](https://www.coderetreat.org/events/all/)
+  * [SoCraTes BE](https://socratesbe.org)
+  * [SoCraTes DE](https://www.socrates-conference.de/home)
+  * [SoCraTes FR](https://socrates-fr.github.io)
+  * [SoCraTes IT](https://www.socrates-conference.it)
+  * [SoCraTes UK](https://socratesuk.org)
 
+_* Denotes resources I didn't have time to mention in my talk_
 
 ## Jon Reid<!-- include: jon.md -->
 
