@@ -41,7 +41,7 @@
 * Test-Driven Development
   * [Test-driven development](https://www.jetbrains.com/help/idea/tdd-with-intellij-idea.html) in IntelliJ showing "Create a new class from the test" and "Create method"
 * Refactoring
-  * Recommended Key Bindings
+  * Recommended Key Bindings for Xcode
     * Rename ^⌘N
     * Extract to Method ^⌘M
     * Extract All Occurrences ^⌘V
@@ -51,8 +51,10 @@
   * [Understanding the Language Server Protocol](https://medium.com/@malintha1996/understanding-the-language-server-protocol-5c0ba3ac83d2)
   * [Swift for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang)
   * [CodaFi's post on adding more refactoring to SourceKit-LSP](https://mastodon.social/@cfi/112220905591670853)
+  * _[Refactoring](https://refactoring.com)_ by Martin Fowler
 * Conclusion
   * [AppCode](https://www.jetbrains.com/objc/) with downloads
+  * [How to Set Up AppCode So It Doesn’t Beach Ball](https://qualitycoding.org/appcode-memory-beach-ball/)
   * But this is how it's always been
     * [Awesome iOS Dev Tools](https://github.com/ios-dev-tools/awesome-ios-dev-tools)
     * [SwiftLint](https://swiftpackageindex.com/realm/SwiftLint)
@@ -66,6 +68,7 @@
   * New IDEs
     * [Visual Studio Code](https://code.visualstudio.com)
     * [JetBrains Fleet](https://www.jetbrains.com/fleet/)
+    * [Fleet Features Matrix](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTWt9RlJPfIJwD5H7Gsqbu9xHTd-K1oj_zCpP6YIQq8xvjARDYqC6OnVIVt5WPi2-B-vWHZw5qMnhvx/pubhtml?gid=0&single=true)
   * Foundations to Build With
     * [SourceKit-LSP](https://github.com/apple/sourcekit-lsp)
     * [Swift Syntax](https://github.com/apple/swift-syntax)
