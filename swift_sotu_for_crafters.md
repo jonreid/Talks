@@ -1,4 +1,4 @@
-# Swift for Crafters
+# Swift Platform State of the Union for Software Crafters
 
 ## Talk Resources
 * [Slides](./Slides/sampleslides.pptx)
