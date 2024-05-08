@@ -35,6 +35,16 @@
 * Test-Driven Development
   * [Test-driven development](https://www.jetbrains.com/help/idea/tdd-with-intellij-idea.html) in IntelliJ showing "Create a new class from the test" and "Create method"
 * Refactoring
+  * Recommended Key Bindings
+    * Rename ^⌘N
+    * Extract to Method ^⌘M
+    * Extract All Occurrences ^⌘V
+    * Delete Line ⌘⌫
+  * [AppCode Automated Refactoring](https://www.jetbrains.com/help/objc/refactoring-source-code.html)
+  * [AppCode Intention Actions](https://www.jetbrains.com/help/objc/intention-actions.html)
+  * [Understanding the Language Server Protocol](https://medium.com/@malintha1996/understanding-the-language-server-protocol-5c0ba3ac83d2)
+  * [Swift for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=sswg.swift-lang)
+  * [CodaFi's post on adding more refactoring to SourceKit-LSP](https://mastodon.social/@cfi/112220905591670853)
 * Conclusion
   * [AppCode](https://www.jetbrains.com/objc/) with downloads
   * [SwiftLint](https://swiftpackageindex.com/realm/SwiftLint)
