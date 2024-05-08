@@ -14,5 +14,5 @@
 * [Twitch](https://www.twitch.tv/qcoding)
 * [YouTube](https://www.youtube.com/@QualityCoding)
 
-I’m an iOS developer who is also a [Technical Agile Coach](https://www.industriallogic.com/people/jon/). You can [hire me](https://www.linkedin.com/in/jonreid/).<!-- endInclude -->
+I’m an iOS developer who is also a [Technical Agile Coach](https://www.industriallogic.com/people/jon/). You can bring me into your team, just [contact me](https://www.linkedin.com/in/jonreid/).<!-- endInclude -->
 
