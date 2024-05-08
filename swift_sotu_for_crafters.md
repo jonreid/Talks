@@ -32,7 +32,7 @@
     * [Infinitest](http://infinitest.github.io) (IntelliJ)
     * [XcodeSelectiveTesting](https://swiftpackageindex.com/mikeger/XcodeSelectiveTesting)
     * [Jest](https://jestjs.io) (JavaScript)
-    * [Why Is Random Order a Big Deal for Test Quality?](https://qualitycoding.org/random-test-order/) *
+    * [Why Is Random Order a Big Deal for Test Quality?](https://qualitycoding.org/random-test-order/)
 * Continuous Integration
   * [About self-hosted runners](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners) for GitHub Actions *
   * [CircleCI's self-hosted runner overview](https://circleci.com/docs/runner-overview/) *
