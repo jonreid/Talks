@@ -54,21 +54,21 @@
   * _[Refactoring](https://refactoring.com)_ by Martin Fowler
 * Conclusion
   * [AppCode](https://www.jetbrains.com/objc/) with downloads
-  * [How to Set Up AppCode So It Doesn’t Beach Ball](https://qualitycoding.org/appcode-memory-beach-ball/)
+    * [How to Set Up AppCode So It Doesn’t Beach Ball](https://qualitycoding.org/appcode-memory-beach-ball/) *
   * But this is how it's always been
     * [Awesome iOS Dev Tools](https://github.com/ios-dev-tools/awesome-ios-dev-tools)
     * [SwiftLint](https://swiftpackageindex.com/realm/SwiftLint)
     * [SwiftFormat](https://swiftpackageindex.com/nicklockwood/SwiftFormat)
-    * [Tuist](https://swiftpackageindex.com/tuist/tuist)
-    * [Muter](https://github.com/muter-mutation-testing/muter)
-    * [Sourcery](https://swiftpackageindex.com/krzysztofzablocki/Sourcery)
-    * [Injection III](https://github.com/johnno1962/InjectionIII)
-    * [Periphery](https://swiftpackageindex.com/peripheryapp/periphery)
-    * [ViewInspector](https://swiftpackageindex.com/nalexn/ViewInspector)
+    * [Tuist](https://swiftpackageindex.com/tuist/tuist): module management
+    * [Muter](https://github.com/muter-mutation-testing/muter): mutation testing
+    * [Sourcery](https://swiftpackageindex.com/krzysztofzablocki/Sourcery): meta-programming
+    * [Injection III](https://github.com/johnno1962/InjectionIII): hot reloading without rebuilding
+    * [Periphery](https://swiftpackageindex.com/peripheryapp/periphery): find dead code
+    * [ViewInspector](https://swiftpackageindex.com/nalexn/ViewInspector): unit test SwiftUI
   * New IDEs
     * [Visual Studio Code](https://code.visualstudio.com)
     * [JetBrains Fleet](https://www.jetbrains.com/fleet/)
-    * [Fleet Features Matrix](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTWt9RlJPfIJwD5H7Gsqbu9xHTd-K1oj_zCpP6YIQq8xvjARDYqC6OnVIVt5WPi2-B-vWHZw5qMnhvx/pubhtml?gid=0&single=true)
+      * [Fleet Features Matrix](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTWt9RlJPfIJwD5H7Gsqbu9xHTd-K1oj_zCpP6YIQq8xvjARDYqC6OnVIVt5WPi2-B-vWHZw5qMnhvx/pubhtml?gid=0&single=true)
   * Foundations to Build With
     * [SourceKit-LSP](https://github.com/apple/sourcekit-lsp)
     * [Swift Syntax](https://github.com/apple/swift-syntax)
