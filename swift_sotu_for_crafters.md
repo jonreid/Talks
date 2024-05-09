@@ -65,6 +65,7 @@
     * [Injection III](https://github.com/johnno1962/InjectionIII): hot reloading without rebuilding
     * [Periphery](https://swiftpackageindex.com/peripheryapp/periphery): find dead code
     * [ViewInspector](https://swiftpackageindex.com/nalexn/ViewInspector): unit test SwiftUI
+    * [ApprovalTests.Swift](https://swiftpackageindex.com/approvals/ApprovalTests.Swift): an alternative to assertions
   * New IDEs
     * [Visual Studio Code](https://code.visualstudio.com)
     * [JetBrains Fleet](https://www.jetbrains.com/fleet/)
