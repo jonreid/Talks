@@ -28,7 +28,7 @@
     * [XCTestParametrizedMacro](https://swiftpackageindex.com/PGSSoft/XCTestParametrizedMacro)
   * Test Runner
     * [Continuous Testing in JetBrains IDEs](https://www.jetbrains.com/help/rider/Settings_DotCover_ContinuousTesting.html)
-    * [NCrunch](https://www.ncrunch.net) (C#) *
+    * [NCrunch, Continuous Testing for C#](https://www.ncrunch.net) *
     * [Infinitest](http://infinitest.github.io) (IntelliJ)
     * [XcodeSelectiveTesting](https://swiftpackageindex.com/mikeger/XcodeSelectiveTesting)
     * [Jest](https://jestjs.io) (JavaScript)
@@ -53,9 +53,9 @@
   * [CodaFi's post on adding more refactoring to SourceKit-LSP](https://mastodon.social/@cfi/112220905591670853)
   * _[Refactoring](https://refactoring.com)_ by Martin Fowler
 * Conclusion
-  * [AppCode](https://www.jetbrains.com/objc/) with downloads
+  * [AppCode](https://www.jetbrains.com/objc/) still has downloads…
     * [How to Set Up AppCode So It Doesn’t Beach Ball](https://qualitycoding.org/appcode-memory-beach-ball/) *
-  * But this is how it's always been
+  * Tools Outside Apple
     * [Awesome iOS Dev Tools](https://github.com/ios-dev-tools/awesome-ios-dev-tools)
     * [SwiftLint](https://swiftpackageindex.com/realm/SwiftLint)
     * [SwiftFormat](https://swiftpackageindex.com/nicklockwood/SwiftFormat)
@@ -70,10 +70,6 @@
     * [Visual Studio Code](https://code.visualstudio.com)
     * [JetBrains Fleet](https://www.jetbrains.com/fleet/)
       * [Fleet Features Matrix](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTWt9RlJPfIJwD5H7Gsqbu9xHTd-K1oj_zCpP6YIQq8xvjARDYqC6OnVIVt5WPi2-B-vWHZw5qMnhvx/pubhtml?gid=0&single=true)
-  * Foundations to Build With
-    * [SourceKit-LSP](https://github.com/apple/sourcekit-lsp)
-    * [Swift Syntax](https://github.com/apple/swift-syntax)
-    * [SourceKitten](https://github.com/jpsim/SourceKitten)
   * Connect with Crafters
     * [London Software Craftsmanship Community](https://www.meetup.com/london-software-craftsmanship/)
     * [PhillyXP](https://www.meetup.com/phillyxp/)
