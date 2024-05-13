@@ -5,14 +5,6 @@
 * Intro
   * [Extreme Programming](http://www.extremeprogramming.org)
   * [Create a SwiftUI application in AppCode](https://www.jetbrains.com/help/objc/create-a-swiftui-application.html)
-* Remote Ensemble Programming
-  * [Software Teaming](https://softwareteaming.com) *
-  * [Remote Mob Programming](https://www.remotemobprogramming.org)
-  * [mob.sh](https://mob.sh)
-  * Multi-Cursor Remote Control
-    * [Tuple](https://tuple.app)
-    * [Pop](https://pop.com)
-    * [Drovio](https://www.drovio.com)
 * Dependency Analysis
   * _[Large-Scale C++ Software Design](https://www.amazon.com/Large-Scale-Software-Design-John-Lakos/dp/0201633620)_ by John Lakos
   * I see that John Lakos wrote a follow-up book I haven't yet read: _[Large-Scale C++ Volume I: Process and Architecture](https://www.oreilly.com/library/view/large-scale-c-volume/9780133927573/)_ *
