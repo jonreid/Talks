@@ -1,7 +1,7 @@
 # Swift Platform State of the Union for Software Crafters
 
 ## Talk Resources
-* [Slides](./Slides/sampleslides.pptx)
+* [Slides](https://github.com/jonreid/Talks/blob/main/Slides/swift_sotu_for_crafters.pdf)
 * Intro
   * [Extreme Programming](http://www.extremeprogramming.org)
   * [Create a SwiftUI application in AppCode](https://www.jetbrains.com/help/objc/create-a-swiftui-application.html)
