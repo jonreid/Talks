@@ -84,5 +84,5 @@ _* Denotes resources I didn't have time to mention in my talk_
 * [YouTube](https://www.youtube.com/@QualityCoding)
 * [GitHub](https://github.com/jonreid)
 
-**[You can hire me](https://www.linkedin.com/in/jonreid/),** I'm open to joining your team as a Senior iOS Developer.<!-- endInclude -->
+**[You can hire me](https://qualitycoding.org/hire-me/),** I'm open to joining your team as a Senior iOS Developer.<!-- endInclude -->
 
