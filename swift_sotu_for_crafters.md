@@ -63,6 +63,7 @@
     * [JetBrains Fleet](https://www.jetbrains.com/fleet/)
       * [Fleet Features Matrix](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTWt9RlJPfIJwD5H7Gsqbu9xHTd-K1oj_zCpP6YIQq8xvjARDYqC6OnVIVt5WPi2-B-vWHZw5qMnhvx/pubhtml?gid=0&single=true)
   * Connect with Crafters
+    * [Extreme Tuesday Club (XTC)](https://www.meetup.com/extreme-tuesday-club-xtc/), London *
     * [London Software Craftsmanship Community](https://www.meetup.com/london-software-craftsmanship/)
     * [PhillyXP](https://www.meetup.com/phillyxp/)
     * [Seattle Software Crafters](https://www.meetup.com/seattle-software-craftsmanship/)
