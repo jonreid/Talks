@@ -1,6 +1,8 @@
 # Swift Platform State of the Union for Software Crafters
 
 ## Talk Resources
+
+* [Video](https://www.youtube.com/watch?v=bV8nWAJrAs0)
 * [Slides](https://github.com/jonreid/Talks/blob/main/Slides/swift_sotu_for_crafters.pdf)
 * Intro
   * [Extreme Programming](http://www.extremeprogramming.org)
