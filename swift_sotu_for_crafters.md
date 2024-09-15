@@ -75,6 +75,7 @@
     * [SoCraTes FR](https://socrates-fr.github.io)
     * [SoCraTes IT](https://www.socrates-conference.it)
     * [SoCraTes UK](https://socratesuk.org)
+    * [Craft Conference](https://craft-conf.com/) *
 
 _* Denotes resources I didn't have time to mention in my talk_
 
