@@ -83,10 +83,10 @@ _* Denotes resources I didn't have time to mention in my talk_
 
 * [Quality Coding](https://qualitycoding.org)
 * _[iOS Unit Testing by Example](https://iosunittestingbyexample.com)_
+* [BlueSky](https://bsky.app/profile/qualitycoding.org)
 * [Mastodon](https://iosdev.space/@qcoding)
-* [Twitch](https://www.twitch.tv/qcoding)
+* [LinkedIn](https://www.linkedin.com/in/jonreid/)
 * [YouTube](https://www.youtube.com/@QualityCoding)
-* [GitHub](https://github.com/jonreid)
-
-**[You can hire me](https://qualitycoding.org/hire-me/),** I'm open to joining your team as a Senior iOS Developer.<!-- endInclude -->
+* [Twitch](https://www.twitch.tv/qcoding)
+* [GitHub](https://github.com/jonreid)<!-- endInclude -->
 
